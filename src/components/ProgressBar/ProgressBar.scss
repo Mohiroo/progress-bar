@@ -1,0 +1,13 @@
+.progress {
+  display: flex;
+  flex-direction: column;
+}
+
+.progress-bar {
+  display: flex;
+}
+
+.progress-legend {
+  display: flex;
+  justify-content: space-between;
+}
